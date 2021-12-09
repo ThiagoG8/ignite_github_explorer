@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["dom", "dom.iterable", "esnex"],
+    "lib": ["dom", "dom.iterable", "esnext"],
     "jsx": "react-jsx",
     "moduleResolution": "node",
     "resolveJsonModule": true,
